@@ -1,5 +1,5 @@
 {
-  "name": "unify-id",
+  "name": "s5rhh336i5",
   "version": "1.0.0",
   "description": "",
   "main": "createImage.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jssullivan/unify-id.git"
+    "url": "git+https://github.com/jssullivan/s5rhh336i5.git"
   },
-  "author": "",
+  "author": "James Sullivan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jssullivan/unify-id/issues"
+    "url": "https://github.com/jssullivan/s5rhh336i5/issues"
   },
-  "homepage": "https://github.com/jssullivan/unify-id#readme",
+  "homepage": "https://github.com/jssullivan/s5rhh336i5#readme",
   "dependencies": {
     "imagejs": "0.0.9",
     "request": "^2.81.0",
