@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jssullivan/unify-id#readme",
   "dependencies": {
+    "imagejs": "0.0.9",
+    "request": "^2.81.0",
     "request-promise-native": "^1.0.4"
   }
 }
