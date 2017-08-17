@@ -3,6 +3,8 @@
 This javascript application generates random images with numbers obtained from Random.org's API. This program was created to complete Unify-ID's programming challenge.
 
 # Usage
+Install the Dependancies with: `npm install`
+
 `node createImage.js`
 Creates a random 128 by 128 image saved to image.png
 
