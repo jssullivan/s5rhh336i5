@@ -1,0 +1,22 @@
+{
+  "name": "unify-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssullivan/unify-id.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jssullivan/unify-id/issues"
+  },
+  "homepage": "https://github.com/jssullivan/unify-id#readme",
+  "dependencies": {
+    "request-promise-native": "^1.0.4"
+  }
+}
