@@ -1,6 +1,4 @@
-# unify-id
-
-This javascript application generates random images with numbers obtained from Random.org's API. This program was created to complete Unify-ID's programming challenge.
+This javascript application generates random images with numbers obtained from Random.org's API. 
 
 # Usage
 Install the Dependancies with: `npm install`
